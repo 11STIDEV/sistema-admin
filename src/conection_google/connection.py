@@ -1,0 +1,9 @@
+class ConectGoole():
+    def __init__(self):
+        ...
+
+    def service(self):
+        ...
+
+    def build_admin(self):
+        ...
